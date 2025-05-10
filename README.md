@@ -8,9 +8,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mragisha-jain/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:mjain22@ncsu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:jainmragisha24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/mragisha"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/></a>
 </p>
+
+---
+
+🎓 I'm a Master’s student in Computer Science at **North Carolina State University**, specializing in **Data Science** and passionate about building real-world applications in AI, ML, and NLP.
+
+I bring 2+ years of software development experience from my time at Persistent Systems, and my academic journey is now focused on **large language models**, **generative AI**, and **climate data analytics**. I love working on projects that bridge the gap between research and impact—whether it’s using LLMs for financial risk detection, summarizing documents with transformers, or deploying scalable ML pipelines on the cloud.
 
 ---
 
