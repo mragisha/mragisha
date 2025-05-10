@@ -65,10 +65,10 @@ I bring 2+ years of software development experience from my time at Persistent S
     <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" width="40" alt="LangChain" />
   </a>
 
-  <!-- Meta LLaMA (fallback logo from HuggingFace card preview) -->
-  <a href="https://ai.meta.com/llama/" target="_blank" rel="noopener noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="LLaMA" />
-  </a>
+ <a href="https://ai.meta.com/llama/" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_AI_logo.svg" width="40" alt="Meta AI" />
+</a>
+
 </p>
 
 **DevOps & Cloud**  
