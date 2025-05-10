@@ -60,11 +60,14 @@ I bring 2+ years of software development experience from my time at Persistent S
   <a href="https://openai.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" alt="OpenAI" />
   </a>
+  <!-- LangChain (fallback to favicon) -->
   <a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.svg" width="40" alt="LangChain" />
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" width="40" alt="LangChain" />
   </a>
+
+  <!-- Meta LLaMA (fallback logo from HuggingFace card preview) -->
   <a href="https://ai.meta.com/llama/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/facebookresearch/llama/main/assets/logo.png" width="40" alt="Meta LLaMA" />
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="LLaMA" />
   </a>
 </p>
 
