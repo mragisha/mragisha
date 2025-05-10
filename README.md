@@ -54,18 +54,33 @@ I bring 2+ years of software development experience from my time at Persistent S
 
 **NLP & LLMs**  
 <p align="left">
-  <a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="Hugging Face" /></a>
-  <a href="https://openai.com/" target="_blank" rel="noopener noreferrer"><img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40" alt="OpenAI" /></a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/logo.svg" width="40" alt="LangChain" /></a>
-  <a href="https://ai.meta.com/llama/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Meta_AI_LLaMA_logo.png" width="40" alt="Meta LLaMA" /></a>
+  <a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" width="40" alt="Hugging Face" />
+  </a>
+  <a href="https://openai.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" alt="OpenAI" />
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.svg" width="40" alt="LangChain" />
+  </a>
+  <a href="https://ai.meta.com/llama/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/facebookresearch/llama/main/assets/logo.png" width="40" alt="Meta LLaMA" />
+  </a>
 </p>
 
 **DevOps & Cloud**  
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /></a>
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" />
+  </a>
 </p>
+
 
 **Visualization & Tools**  
 <p align="left">
