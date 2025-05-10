@@ -1,10 +1,16 @@
-# 👋 Hi, I'm Mragisha Jain
+<h1 align="center">
+  Hi there, I'm Mragisha Jain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-### 🌟 Data Scientist | AI Engineer | ML Enthusiast
+<p align="center">
+  <strong>Data Scientist | AI/ML Enthusiast | NLP Explorer</strong>
+</p>
 
-🎓 I'm a Master’s student in Computer Science at **North Carolina State University**, specializing in **Data Science** and passionate about building real-world applications in AI, ML, and NLP.
-
-I bring 2+ years of software development experience from my time at Persistent Systems, and my academic journey is now focused on **large language models**, **generative AI**, and **climate data analytics**. I love working on projects that bridge the gap between research and impact—whether it’s using LLMs for financial risk detection, summarizing documents with transformers, or deploying scalable ML pipelines on the cloud.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mragisha-jain/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:mjain22@ncsu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/mragisha"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/></a>
+</p>
 
 ---
 
@@ -53,32 +59,6 @@ I bring 2+ years of software development experience from my time at Persistent S
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-
----
-
-### 📈 Featured Projects
-
-📌 [Text Summarization NLP](https://github.com/krishnaik06/Text-Summarization-NLP-Project)  
-Built a Transformer-based summarization system using BERT/T5, deployed via CI/CD pipeline on AWS.
-
-📌 [Speech Emotion Recognition](https://github.com/your-link-here)  
-LSTM and BiGRU-based model trained on MFCC audio features for multi-class emotion classification.
-
-📌 [Financial Risk Event Detection (LLMs)](https://github.com/your-link-here)  
-Mapped financial time-series data with news using BERT for risk forecasting.
-
-📌 [Geospatial Climate Clustering (Camcore)](https://github.com/your-link-here)  
-Used K-means and DBSCAN to identify similar climate zones and optimize tree species trials.
-
----
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mragisha-jain)
-- 📧 mjain22@ncsu.edu
-- 🌐 [Portfolio Website (Coming Soon)](https://github.com/mragisha)
-- 🐍 [GitHub](https://github.com/mragisha)
 
 ---
 
